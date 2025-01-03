@@ -2,7 +2,7 @@
   {
     "icon": "Blog",
     "name": "博客",
-    "link": "http://lqgps.com/"
+    "link": "https://lqgps.com/"
   },
   {
     "icon": "Cloud",
@@ -27,11 +27,6 @@
   {
     "icon": "Fire",
     "name": "今日热榜",
-    "link": "#/"
-  },
-  {
-    "icon": "LaptopCode",
-    "name": "站点监测",
-    "link": "#/"
+    "link": "https://lqgps.com/"
   }
 ]
