@@ -163,6 +163,7 @@ VITE_SONG_ID = "7452421335"
 ```
 
 ### 字体
+## 请参照 https://github.com/xizeyoupan/Meting-API#deno-deploy 进行 API 服务部署
 
 现采用 `HarmonyOS Sans` 开源字体，采用字体拆分，提升加载速度
 
